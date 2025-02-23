@@ -1,0 +1,19 @@
+```
+````
+
+### /d:/final_project2/landing_page/project/dashboard_finance/.gitkeep
+
+Create a new file named `.gitkeep` inside the `dashboard_finance` directory.
+
+<file>
+````plaintext
+// filepath: /d:/final_project2/landing_page/project/dashboard_finance/.gitkeep
+```
+````
+
+After creating these files, add and commit the changes to your Git repository:
+
+```sh
+git add /d:/final_project2/landing_page/project/NewHomePageFinance/.gitkeep /d:/final_project2/landing_page/project/dashboard_finance/.gitkeep
+git commit -m "Add .gitkeep files to ensure directories are tracked"
+```
